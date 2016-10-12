@@ -1,0 +1,17 @@
+{
+    "name": "onvardgmbh/helper-classes",
+    "description": "PHP Helper Classes for often used functions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Björn Hasse",
+            "email": "hasse@onvard.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Onvardgmbh\\HelperClasses\\": "/"
+        }
+    }
+}
